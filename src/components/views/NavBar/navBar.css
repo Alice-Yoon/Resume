@@ -1,0 +1,12 @@
+
+  .nav-bar {
+    /* border: 1px solid red; */
+    padding: 10px 100px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: lightcoral; */
+    background-color: indianred;
+    font-size: 2rem;
+  }
+  

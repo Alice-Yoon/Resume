@@ -1,0 +1,19 @@
+.header-container {
+    background-image: url('../../../img/alice-in-wonderland.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgba(201, 51, 51, 0.5); */
+    background-color: rgba(0,0,0,0.7);
+    /* border: 1px solid blue; */
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-image {
+    /* border: 3px solid red; */
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
